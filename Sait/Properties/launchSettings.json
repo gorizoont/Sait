@@ -3,19 +3,12 @@
     "Sait": {
       "commandName": "Project",
       "launchBrowser": true,
-      "environmentVariables": {
-        //"ASPNETCORE_ENVIRONMENT": "Development",
-        "DOTNET_ENVIRONMENT": "Development"
-      },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7181;http://localhost:5181"
     },
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": true,
-      "environmentVariables": {
-        //"ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      "launchBrowser": true
     },
     "Docker": {
       "commandName": "Docker",
